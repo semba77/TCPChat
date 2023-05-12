@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yCeoZWS4B8ea8S2PqFQQjZkLLwN4MTEukdIadEiWC6o7UTp4lmM1zXhHGorROhPOjvkja2djzl+tmLoJDIl7fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ondra\\Downloads\\Mesenger\\Mesenger\\Mesenger\\Mesenger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ondra\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\ondra\\.nuget\\packages\\system.management\\7.0.1\\system.management.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
